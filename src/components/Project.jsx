@@ -34,14 +34,14 @@ const Project = () => {
       img: project4,
       name: "Portfolio",
       github_link:
-        "https://github.com",
+        "https://github.com/Udit4849/Portfolio",
       live_link: "",
     },
     {
       img: project5,
       name: "e-commerce frontend",
-      github_link: "https://github.com",
-      live_link: "",
+      github_link: "https://github.com/Udit4849/Ecommerce-frontend",
+      live_link: "https://ecommerce-frontend-one-flax.vercel.app/",
     },
   ];
   return (
