@@ -35,7 +35,7 @@ const Project = () => {
       name: "Portfolio",
       github_link:
         "https://github.com/Udit4849/Portfolio",
-      live_link: "",
+      live_link: "https://github.com/Udit4849/Portfolio",
     },
     {
       img: project5,
